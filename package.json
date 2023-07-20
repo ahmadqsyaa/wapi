@@ -13,8 +13,8 @@
   "author": "anonymos",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "^5.0.0",
+    "@whiskeysocket/keyed-db": "^0.2.4",
     "eslint": "^8.14.0",
     "express": "^4.18.1",
     "express-fileupload": "^1.4.0",
